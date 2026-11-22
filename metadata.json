@@ -1,0 +1,8 @@
+{
+  "name": "Remix Rodolfo-Cortez-Velez",
+  "description": "Imported from GitHub: velezrudy74-debug/Rodolfo-Cortez-Velez",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
